@@ -8,3 +8,4 @@ This is the source code for all implementations of the upcoming project of AI as
 - Song key recognizer (In progress)
 - Tempo detector (In progress)
 - Chord recognizer (In progress)
+- Audio Separator (In progress)
